@@ -1,3 +1,3 @@
 # apnacollege
 This is my repository
-Author-Ritam Basu
+Author-Ritam Basu(main)
